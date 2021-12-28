@@ -1,0 +1,5 @@
+{
+  "name": "crud",
+  "version-string": "0.1.0",
+  "dependencies": ["oatpp", "oatpp-swagger", "oatpp-sqlite"]
+}
